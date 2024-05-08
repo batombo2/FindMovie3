@@ -23,7 +23,7 @@
         android:id="@+id/center_linear"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_margin="5dp"
+        android:layout_margin="10dp"
         android:background="#73B6EB"
         android:orientation="vertical"
         app:layout_constraintBottom_toTopOf="@id/bottom_frame"
